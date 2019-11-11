@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ContaEncapsulado:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc3771ae-406e-45b7-8864-2f576d2ab9e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PNtBgbKNSL51Lu4gG7HLDa9dB8" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bytebank-herdado-conta" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TesteOrd">
+    <configuration name="ArrayEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.ArrayEquals" />
+      <module name="ContaEncapsulado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fit.matheusBanco.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.ArrayReferencia" />
+      <module name="ContaEncapsulado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fit.matheusBanco.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.Program" />
+      <module name="ContaEncapsulado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fit.matheusBanco.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.TestList" />
+      <module name="ContaEncapsulado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fit.matheusBanco.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOb" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.TestOb" />
+      <module name="ContaEncapsulado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ContaEncapsulado:jar" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="TesteOrd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fit.matheusBanco.program.TesteOrd" />
+      <module name="ContaEncapsulado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fit.matheusBanco.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestOb" />
+      <item itemvalue="Application.ArrayReferencia" />
+      <item itemvalue="Application.TestList" />
+      <item itemvalue="Application.ArrayEquals" />
+      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.TesteOrd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteOrd" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.ArrayEquals" />
+        <item itemvalue="Application.TestList" />
+        <item itemvalue="Application.ArrayReferencia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc3771ae-406e-45b7-8864-2f576d2ab9e1" name="Default Changelist" comment="" />
+      <created>1565726247204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565726247204</updated>
+    </task>
+    <servers />
+  </component>
+</project>
